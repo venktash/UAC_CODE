@@ -6,6 +6,7 @@
 #include "adc.h"
 #include "lcd.h"
 
+// some changes have done in this code for repository
 int page_display( );
 void settings_update();
 void Password_Enter(int );
