@@ -7,6 +7,7 @@
 #include "lcd.h"
 
 // some changes have done in this code for repository
+//this change have beed done for sub branch in master 
 int page_display( );
 void settings_update();
 void Password_Enter(int );
